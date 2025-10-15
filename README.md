@@ -30,10 +30,18 @@ I'm a student with an Associate's in Networking and Cybersecurity and currently 
 ---
 
 ### Projects
-Here are some of my favorite and ongoing projects:
-- **[Project Name](project-link)**: Short description of what it does and what you learned.
-- **[Project Name](project-link)**: Short description of what it does and what you learned.
-- *(Add or update project details as you go!)*
+
+- **[SSH-Toolkit]**  
+  A CLI toolkit for streamlining SSH connections and managing VM environments. Includes scripting capabilities and secure connection templates.
+
+- **[Commonplace Book]**  
+  Digital commonplace book app for collecting, tagging, and searching notes, quotes, and ideas. Built with Python and Flask.
+
+- **[Python-Automator]**  
+  Automation scripts for Linux system maintenance, backup, and monitoring. Includes Bash and Python tools.
+
+- **[CyberSec Playground]**  
+  Educational sandbox for practicing networking and cybersecurity concepts. Includes mock networks, attack simulations, and defense strategies.
 
 ---
 
