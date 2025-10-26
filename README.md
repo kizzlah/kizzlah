@@ -10,15 +10,13 @@ I'm a student with an Associate's in Networking and Cybersecurity and currently 
 ---
 
 ### Skills & Technologies
-- **Containers**
-  - *Kubernetes, Orbstack, Podman, Colima*
-- **SSH & VMs**
+- **Containerization and IaC**
+- **Virtualization**
 - **CLI Tools & Scripting**
-- **Python**
+- **Python and Web Development**
 - **Networking & Cybersecurity**
 - **Cloud Computing**
-
-*Currently expanding my toolkit to include Powershell scripting and advanced Linux CLI.*
+- **AI, LLM, NLP, & RAG**
 
 ---
 
