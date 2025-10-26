@@ -1,6 +1,6 @@
 # Bonjour, hi. I'm kizzlah.
 
-> *Spirit of an artist, mind of a technician.*
+> *Spirit of an artist and the mind of a technician.*
 
 ---
 
@@ -56,7 +56,7 @@ I'm a student with an Associate's in Networking and Cybersecurity and currently 
 
 ### Fun Fact
 *Life-long learner with an affinity for commonplace books.*
-*Bibliophile with a collection of literary fictions, fantasy, computing literature. There's also my Boox and Kindle libraries, but even I can't keep up with that.*
+*Bibliophile with a collection of literary fiction, fantasy, computing literature, and more than a few "That's a pretty cover." options to choose from. There's also my Boox and Kindle libraries, but even I can't keep up with that.*
 
 <!-- Social links go here! Add LinkedIn, Twitter, Blog, etc. when ready. -->
 
