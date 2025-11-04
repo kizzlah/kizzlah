@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I'm a student with an Associate's in Networking and Cybersecurity and currently pursuing a Bachelor's in Information Systems and Human-Centered Artificial Intelligence. Former recipient of the Microsoft Cybersecurity Scholarship and Western Digital STEM Scholarship. Member of Phi Theta Kappa Honor Society.
+I'm a student with an Associate's in Networking and Cybersecurity and currently pursuing a Bachelor's in Human-Centered Artificial Intelligence. Former recipient of the Microsoft Cybersecurity Scholarship and Western Digital STEM Scholarship. Member of Phi Theta Kappa Honor Society.
 
 ---
 
