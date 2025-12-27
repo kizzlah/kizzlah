@@ -41,6 +41,8 @@ I'm a student with an Associate's in Networking and Cybersecurity and currently 
 - **[CyberSec Playground]**  
   Educational sandbox for practicing networking and cybersecurity concepts. Includes mock networks, attack simulations, and defense strategies.
 
+📦 **[View Package Registry](PACKAGES.md)** - See all dependencies and packages used across projects.
+
 ---
 
 ### What I'm Learning Now
