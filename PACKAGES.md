@@ -65,7 +65,7 @@ This document serves as a central registry for packages and dependencies used ac
 ### Core Dependencies
 - **scapy** (Python) - Packet manipulation program
 - **netfilterqueue** (Python) - Network packet manipulation
-- **pycrypto** (Python) - Cryptographic modules
+- **pycryptodome** (Python) - Cryptographic modules (replaces deprecated pycrypto)
 - **nmap** - Network scanner (system package)
 
 ### Development Dependencies
@@ -80,7 +80,7 @@ This document serves as a central registry for packages and dependencies used ac
 These tools are used across multiple projects:
 
 ### Python
-- **Python 3.x** - Programming language runtime
+- **Python 3.8+** - Programming language runtime
 - **pip** - Package installer
 - **virtualenv** / **venv** - Virtual environment tools
 - **poetry** - Dependency management (alternative)
