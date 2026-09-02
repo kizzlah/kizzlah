@@ -5,43 +5,49 @@
 ---
 
 ### About Me
-Former student of operatic performance, turned hospitality savant, and recent convert into one with a preference for the technical world with a newfound analytical frame of mind. After two years of studying IT and applying to entry-level positions, I have decided to step back and reassess how I should proceed in regards to my education and future career paths. 
 
-I confess that I still have a desire to work with technology in some capacity, but I also have a true desire to help others in some capacity (that isn't nursing). The healthcare industry has two sectors that I keep turning to, with one being akin to Social Work and the other being the forgotten stepchild of IT. 
-
-I am in the process of attempting to start learning about IT for healthcare by starting with the most crucial components of its very foundation: medical billing and coding (also known by medical records, health information management, and others). Essentially, it is possibly one of, if not the most crucial form of data entry today while also being considered a stepping stone into healthcare as a career. Also, it is the only sector of healthcare IT with the most readily available information to date. 
-
-Beyond this prior field of study, my goal is to gain education on Public Health rather than Health Sciences or Healthcare Administration. No matter what undergraduate degree I pursue, unless I screw things up as I tend to do, my end goal is to be accepted into a joint graduate degree program for Public Health and Social Work through LSU and LSUHSC New Orleans. 
-
-Despite the changes being made by AI in every industry, despite all of the use cases that we now have even with our continued doubts, and despite the continued attempts to give AI the capability of generating human-like responses and behaviors, at the end of the day, what's underneath is still just code. 
-
-Some matters in life will forever call for a certain type of human touch. My last program of study was centered around developing ways for humans to work in tandem with AI and focused heavily on the ethics of the work itself. This new education and career plan I've developed for myself shifts the focus back to what should be our focus for the future: society and our ever-growing population.
-
-The secondary focus is developing ways of working with AI as it continues to grow in order to find and maintain policy changes and systems of care for the foreseeable future. AI is a tool for the generations of today to learn to master, but we can't forget about caring for the people telling the machines how they are meant to behave. 
-
-I'm utilizing Codecademy and OpenLearn at the moment while reconsidering which, if any, certifications to pursue. Because I'm following a more interdisciplinary "curriculum", I've no projects in the works that one might usually share. Unless anyone is into wireframes, markdown documents, and vibe-coded builds that are built using DeepSeek V4. The output is on par if not better than Claude and GPT so far. 
+Currently studying sociology because I'm as fascinated by society as I am by technology. 
+Well, certain aspects of society and technology. 
+I'll add more to this overtime. My repos are mixed in with a bunch of forks from other users. 
+If you want to know which are mine don't hesitate to ask.
 
 ---
 
 ### Skills & Technologies
+	- 20 years of MacOS, a working knowledge of Windows, and an unexplainable fascination with Linux. 
+	- Networking - focus on topography and automation. 
+	- Cloud Computing - network design, topography, and security. Maintaining a work knowledge of each major provider. 
+	- Documentation - if you can't explain the work in order for it to be reproduced by someone else then all of the time and effort spent will be a waste. 
+	- Communication - verbal and written. It's becoming a lost art the ability to converse with another person. 
 
 ---
 
-### Interests & Projects
-
+### Interests
+	- I consider myself a human editor for AI because vibe coder just comes with too many negatives. Also, I actually enjoy learning about specific aspects of AI which I feel most vibe coders and software engineers/true AI developers don't have enough respect for. I'm referring to the ethics of AI primarily focusing on accountability, privacy, transparency, and social impact.  
+	
 ---
 
 ### Projects
+	- A web-based research platform wherein users can begin literary research utilizing cloud storage from a selection of providers, develop the design their intended study with an infinite canvas style editor, compile and store data gathered from the study in multiple file formats, and a documentation generator capable of generating citations and references from stored material and files.  
+	- A portfolio of sorts for writing samples. I just can't make up my mind if I want to go through the trouble of actually making one from scratch, hosting files on Notion, or just using a template I find online. 
+	- I'm always "vibe coding" something small in an attempt to create a tool of my own to use as part of my workflow. Nothing major - usually just a terminal based editor.
 
 ---
 
 ### What I'm Learning Now
+	- Sociology
+	- Academic research and writing
+	- Additional markup languages for documentation generation
+	- Google AI Professional certification for an internship opportunity
+	- Though I'm no longer consider myself to be actively pursuing employment, I am still casually developing my coding abilities, but just for automation, scripting, and AI purposes. 
 
 ---
 
-### Fun Fact
-*Life-long learner with an affinity for commonplace books.*
-*Bibliophile with a collection of literary fiction, fantasy, computing literature, and more than a few "That's a pretty cover." options to choose from. There's also my Boox and Kindle libraries, but even I can't keep up with that.*
+### Fun Fact(s)
+	- Life-long learner with an affinity for commonplace books.
+	- Bibliophile with a collection of literary fiction, fantasy, computing literature, and more than a few "That's a pretty cover." options to choose from.
+	- There's also my Boox and Kindle libraries, but even I can't keep up with that.
+	- Once upon a time, I played five instruments and was learningn to sing opera.
 
 <!-- Social links go here! Add LinkedIn, Twitter, Blog, etc. when ready. -->
 
